@@ -1,3 +1,5 @@
+# Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+
 str = " abbb"
 def isUnique(str):
     for i in range(len(str)):
